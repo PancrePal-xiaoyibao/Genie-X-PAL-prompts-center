@@ -41,6 +41,7 @@
 
 👏 标准的github/gitcode上的代码和项目贡献 我们已经开源了3个项目仓库，包括：<br>
 - [小胰宝](https://github.com/PancrePal-xiaoyibao/miniapp-uniapp)<br>
+- [肿瘤患者心理助手提示词](https://github.com/hhx465453939/MedicRAG) <br>:一个将医学与大生命领域专业研究转化为面向实际问题AI提示词的开源项目，旨在建立基于临床需求的AI知识库智能体生产流程；通过自然语言引导与路径设计，帮助医学与生命科学背景研究者更快融入小胰宝AI社区，并更好地利用医学与生命科学背景实现对AI应用的有效监督约束
 - [MinerU-xyb](https://github.com/PancrePal-xiaoyibao/miniapp-uniapp)<br>
 - [fastgpt-on-wechat](https://github.com/hanfangyuan4396/fastgpt-on-wechat)<br>
 - [Gemini-2.0病情demo](https://github.com/PancrePal-xiaoyibao/gemini2.0-xiaoyibao)<br>
